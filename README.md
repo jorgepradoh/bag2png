@@ -7,5 +7,5 @@ in the bibliography section.
 
 In this code we are using the DLR S3LI dataset (Giubilato et al., 2022), which includes the bagfiles we are using to extract .PNG format images from the ROS bag messages. 
 
-
+**EDIT** Please verify the filename requirements for your needs, you might need to modify the specific name sequence to save your images for them to work correctly on your tests. 
 For this code we are using MATLAB R2022b, as well as the ROS Toolbox v1.6.
